@@ -1,30 +1,9 @@
 /* none */
     .header {
         padding: 10px;
+        text-align: center;
     }
-
-    .container {
-         margin: 0 auto;
-    }
-
-    .nav-list {
-        align-items: center;
-    }    
-
-    .nav-link {
-        padding: 0 12px;
-        font-size: 16px;
-    }
-
-    .li-item {
-        padding: 10px;
-    }
-
-    .li-item span {
-        font-weight: 200;
-    }
-
-    .li-item a {
-        text-decoration: none;
-        color: #0000ff;
-    }
+    .main {
+        text-align: center;
+      }
+      
